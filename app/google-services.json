@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "556979492887",
+    "project_id": "speedcode-f4abf",
+    "storage_bucket": "speedcode-f4abf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556979492887:android:aace9d7c2bad2aeade6452",
+        "android_client_info": {
+          "package_name": "com.speedcode.speedcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556979492887-1h8314k2erl7moqkaqou4h9lshogknqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6a3HvbfHK4BLvCLhlP3CqmHOZ31JLvCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556979492887-1h8314k2erl7moqkaqou4h9lshogknqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

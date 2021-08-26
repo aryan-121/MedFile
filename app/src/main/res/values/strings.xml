@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SpeedCode</string>
+    <string name="Welcome_name">Welcome !</string>
+    <string name="enter_weigth_kg">Enter Weigth (KG)</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="enter_height_cm">Enter Height (cm)</string>
+    <string name="your_health_is_our_responsibility">Your Health is Our Responsibility</string>
+    <string name="logo_for_app">Logo For APP</string>
+    <string name="bmilogofinal">bmiLogoFinal</string>
+    <string name="reportlogofinal">ReportLogoFinal</string>
+    <string name="settinglogofinal">settingLogoFinal</string>
+    <string name="enter_username"><u>ENTER USERNAME</u></string>
+    <string name="change_username">-->   Change Username</string>
+    <string name="enter_here">Enter here</string>
+    <string name="creators">-->   CREATORS</string>
+    <string name="vaidehi_nbedekar">VAIDEHI\nBEDEKAR</string>
+    <string name="aryan_nsharma">ARYAN\nSHARMA</string>
+    <string name="todo">TODO</string>
+    <string name="add_suger_level">Add Suger Level</string>
+</resources>
